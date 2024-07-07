@@ -1,0 +1,9 @@
+display:flex;
+
+
+main{
+     flex:auto;
+}
+article aside{
+      flex-direction:row;
+}
